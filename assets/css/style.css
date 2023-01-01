@@ -214,11 +214,17 @@ body {
     justify-content: space-evenly;
 }
 
-.rodrigo h3, 
+.rodrigo h3 {
+    font-size: 5rem;
+    position: relative;
+    left: 12rem;
+    z-index: 1;
+}
+
 .victor h3 {
     font-size: 5rem;
     position: relative;
-    left: 4rem;
+    left: 7.5rem;
     z-index: 1;
 }
 
